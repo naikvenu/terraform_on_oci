@@ -1,11 +1,5 @@
 
-## This example will create the following resources on OCI (oracle cloud infrastructure)
-
-* 1x VCN (with 1 internet gateway and 1 nat gateway)
-* 2x subnets (public and private)
-* 1x bastion host
-* 1x terraform host
-* 1x etcd host
+## This example will list availability domains on OCI (oracle cloud infrastructure) identity domain
 
 
 ## Using this example
